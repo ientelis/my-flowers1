@@ -1,0 +1,20 @@
+html {
+  background-color: #A7D863;
+  font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 15 пикселей в высоту  */
+  font-family: 'Newsreader', serif;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #2A3C0F;
+}
+img {
+  border: 5px solid #2A3C0F;
+}
+p, li {
+  font-size: 22px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
